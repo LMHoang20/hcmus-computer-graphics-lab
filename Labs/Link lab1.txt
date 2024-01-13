@@ -1,0 +1,5 @@
+Freeglut Lib: https://www.transmissionzero.co.uk/software/freeglut-devel/
+
+Setup OpenGL: https://www.geeksforgeeks.org/how-to-setup-opengl-with-visual-studio-2019-on-windows-10/
+
+OpenGL for CSharp: https://github.com/dwmkerr/sharpgl

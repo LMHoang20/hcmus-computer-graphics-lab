@@ -1,0 +1,5 @@
+- cài visual studio
+- cài glut
+- viết file main.cpp
+- build
+- profit
